@@ -1,0 +1,7 @@
+# macOS
+.DS_Store
+
+# 视频素材（体积大，不进仓库）
+youtube/
+*.mp4
+*.mov
